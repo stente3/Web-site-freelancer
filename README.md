@@ -1,5 +1,5 @@
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+<details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
